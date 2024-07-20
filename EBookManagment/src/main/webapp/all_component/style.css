@@ -1,0 +1,16 @@
+
+.navbar .nav-item:hover .nav-link{
+	background-color:white;
+	color:black;
+	border-radius:15px;
+}
+.phonecustom{
+	
+	color:white;
+	padding-right:15px;
+}
+.settingcustom{
+	
+	color:white;
+	
+}
